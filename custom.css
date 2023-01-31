@@ -1,37 +1,37 @@
 /*BEGIN PS4 White Controller Styling*/
-.controller.ds4.white {
+.controller.custom {
     background-image: url(https://github.com/LegJo/CDC-Custom-Gamepad/blob/main/test_svg/base.svg);
 }
 
-.ds4.white.disconnected {
+.custom.disconnected {
     background: url(https://github.com/LegJo/CDC-Custom-Gamepad/blob/main/test_svg/disconnected.svg);
 }
 
-.ds4.white .trigger {
+.custom .trigger {
     background-image: url(https://github.com/LegJo/CDC-Custom-Gamepad/blob/main/test_svg/triggers.svg);
 }
 
-.ds4.white .bumper {
+.custom .bumper {
     background-image: url(https://github.com/LegJo/CDC-Custom-Gamepad/blob/main/test_svg/bumper.svg);
 }
 
-.ds4.white .touchpad.pressed {
+.custom .touchpad.pressed {
     background-image: url(https://github.com/LegJo/CDC-Custom-Gamepad/blob/main/test_svg/touchpad.svg);
 }
 
-.ds4.white .back, .ds4 .start {
+.custom .back, .ds4 .start {
     background-image: url(https://github.com/LegJo/CDC-Custom-Gamepad/blob/main/test_svg/start.svg);
 }
 
-.ds4.white .button {
+.custom .button {
     background-image: url(https://github.com/LegJo/CDC-Custom-Gamepad/blob/main/test_svg/face.svg);
 }
 
-.ds4.white .stick {
+.custom .stick {
     background-image: url(https://github.com/LegJo/CDC-Custom-Gamepad/blob/main/test_svg/sticks.svg);
 }
 
-.ds4.white .face {
+.custom .face {
     background-image: url(https://github.com/LegJo/CDC-Custom-Gamepad/blob/main/test_svg/dpad.svg);
 }
 
